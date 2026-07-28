@@ -8,7 +8,7 @@
     "alias": "ember-simple-auth-server.now.sh"
   },
   "dependencies": {
-    "body-parser": "^1.17.2",
+    "body-parser": "^1.20.6",
     "cors": "^2.8.1",
     "glob": "^7.1.1",
     "morgan": "^1.8.1",
